@@ -22,13 +22,13 @@
       },
       {
         "id": "1",
-        "sv": "Södra Europa",
-        "en": "Southern Europe"
+        "sv": "Centraleuropa",
+        "en": "Central Europe"
       },
       {
         "id": "2",
-        "sv": "Västra Asien",
-        "en": "Western Asia"
+        "sv": "Östra Europa",
+        "en": "Eastern Europe"
       }
     ],
     "correct": "0"
@@ -56,13 +56,13 @@
       },
       {
         "id": "1",
-        "sv": "Medelhavet",
-        "en": "The Mediterranean Sea"
+        "sv": "Kattegatt",
+        "en": "The Kattegat"
       },
       {
         "id": "2",
-        "sv": "Nordsjön",
-        "en": "The North Sea"
+        "sv": "Skagerrak",
+        "en": "The Skagerrak"
       }
     ],
     "correct": "0"
@@ -90,13 +90,13 @@
       },
       {
         "id": "1",
-        "sv": "Hisingen och Orust",
-        "en": "Hisingen and Orust"
+        "sv": "Gotland och Orust",
+        "en": "Gotland and Orust"
       },
       {
         "id": "2",
-        "sv": "Åland och Bornholm",
-        "en": "Åland and Bornholm"
+        "sv": "Öland och Hisingen",
+        "en": "Öland and Hisingen"
       }
     ],
     "correct": "0"
@@ -124,13 +124,13 @@
       },
       {
         "id": "1",
-        "sv": "Tyskland",
-        "en": "Germany"
+        "sv": "Estland",
+        "en": "Estonia"
       },
       {
         "id": "2",
-        "sv": "Polen",
-        "en": "Poland"
+        "sv": "Lettland",
+        "en": "Latvia"
       }
     ],
     "correct": "0"
@@ -158,13 +158,13 @@
       },
       {
         "id": "1",
-        "sv": "Siljan, Storsjön och Hjälmaren",
-        "en": "Siljan, Storsjön and Hjälmaren"
+        "sv": "Vänern, Vättern och Hjälmaren",
+        "en": "Vänern, Vättern and Hjälmaren"
       },
       {
         "id": "2",
-        "sv": "Vänern, Siljan och Torneträsk",
-        "en": "Vänern, Siljan and Torneträsk"
+        "sv": "Vänern, Mälaren och Storsjön",
+        "en": "Vänern, Mälaren and Storsjön"
       }
     ],
     "correct": "0"
@@ -197,8 +197,8 @@
       },
       {
         "id": "2",
-        "sv": "Städer",
-        "en": "Cities"
+        "sv": "Fjäll och annan öppen mark",
+        "en": "Mountains and other open land"
       }
     ],
     "correct": "0"
@@ -226,13 +226,13 @@
       },
       {
         "id": "1",
-        "sv": "Skåne, Småland och Lappland",
-        "en": "Skåne, Småland and Lappland"
+        "sv": "Götaland, Svealand och Lappland",
+        "en": "Götaland, Svealand and Lappland"
       },
       {
         "id": "2",
-        "sv": "Stockholm, Göteborg och Malmö",
-        "en": "Stockholm, Gothenburg and Malmö"
+        "sv": "Götaland, Bergslagen och Norrland",
+        "en": "Götaland, Bergslagen and Norrland"
       }
     ],
     "correct": "0"
@@ -294,13 +294,13 @@
       },
       {
         "id": "1",
-        "sv": "Uppsala, Lund och Umeå",
-        "en": "Uppsala, Lund and Umeå"
+        "sv": "Stockholm, Göteborg och Uppsala",
+        "en": "Stockholm, Gothenburg and Uppsala"
       },
       {
         "id": "2",
-        "sv": "Örebro, Västerås och Kiruna",
-        "en": "Örebro, Västerås and Kiruna"
+        "sv": "Stockholm, Malmö och Västerås",
+        "en": "Stockholm, Malmö and Västerås"
       }
     ],
     "correct": "0"
@@ -328,13 +328,13 @@
       },
       {
         "id": "1",
-        "sv": "Papper",
-        "en": "Paper"
+        "sv": "Aluminium",
+        "en": "Aluminium"
       },
       {
         "id": "2",
-        "sv": "Glas",
-        "en": "Glass"
+        "sv": "Koppar",
+        "en": "Copper"
       }
     ],
     "correct": "0"
@@ -347,8 +347,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vilken energikälla använder rinnande vatten?",
-      "en": "Which energy source uses flowing water?"
+      "sv": "Vilken energikälla använder enligt texten rinnande vatten i älvar?",
+      "en": "Which energy source uses flowing river water according to the text?"
     },
     "excerpt": {
       "sv": "Vattenkraft står för en stor del av Sveriges elproduktion.",
@@ -362,13 +362,13 @@
       },
       {
         "id": "1",
-        "sv": "Solkraft",
-        "en": "Solar power"
+        "sv": "Tidvattenkraft",
+        "en": "Tidal power"
       },
       {
         "id": "2",
-        "sv": "Vindkraft",
-        "en": "Wind power"
+        "sv": "Vågkraft",
+        "en": "Wave power"
       }
     ],
     "correct": "0"
@@ -396,13 +396,13 @@
       },
       {
         "id": "1",
-        "sv": "I fjällen",
-        "en": "In the mountains"
+        "sv": "I mellersta Sveriges inland",
+        "en": "In the inland areas of central Sweden"
       },
       {
         "id": "2",
-        "sv": "Norr om polcirkeln",
-        "en": "North of the Arctic Circle"
+        "sv": "Längs norra Sveriges kust",
+        "en": "Along the coast of northern Sweden"
       }
     ],
     "correct": "0"
@@ -430,13 +430,13 @@
       },
       {
         "id": "1",
-        "sv": "Alla transporter ska upphöra",
-        "en": "All transport must stop"
+        "sv": "Utsläppen ska stanna på dagens nivå",
+        "en": "Emissions should remain at today's level"
       },
       {
         "id": "2",
-        "sv": "Skogen ska ersättas av jordbruk",
-        "en": "Forests should be replaced by farmland"
+        "sv": "Utsläppen ska minska lika mycket varje år",
+        "en": "Emissions should fall by the same amount each year"
       }
     ],
     "correct": "0"
@@ -464,13 +464,13 @@
       },
       {
         "id": "1",
-        "sv": "Att använda alla resurser så fort som möjligt",
-        "en": "To use all resources as quickly as possible"
+        "sv": "Att bevara dagens resursanvändning oförändrad",
+        "en": "To keep today's resource use unchanged"
       },
       {
         "id": "2",
-        "sv": "Att bara ta hänsyn till dagens ekonomi",
-        "en": "To consider only today's economy"
+        "sv": "Att ersätta miljömål med mål för ekonomisk tillväxt",
+        "en": "To replace environmental goals with economic growth targets"
       }
     ],
     "correct": "0"
@@ -498,13 +498,13 @@
       },
       {
         "id": "1",
-        "sv": "Kungastyre",
-        "en": "Rule by a king"
+        "sv": "Majoritetsstyre utan skydd för minoriteter",
+        "en": "Majority rule without protections for minorities"
       },
       {
         "id": "2",
-        "sv": "Militärstyre",
-        "en": "Military rule"
+        "sv": "Expertstyre oberoende av väljarnas beslut",
+        "en": "Expert rule independent of voters' decisions"
       }
     ],
     "correct": "0"
@@ -532,13 +532,13 @@
       },
       {
         "id": "1",
-        "sv": "Ingen ska få veta valresultatet",
-        "en": "Nobody should know the election result"
+        "sv": "Valmyndigheten ska registrera varje persons partival",
+        "en": "The election authority should record each person's party choice"
       },
       {
         "id": "2",
-        "sv": "Partierna ska vara hemliga",
-        "en": "Political parties should be secret"
+        "sv": "Rösterna ska räknas utan offentlig insyn",
+        "en": "Votes should be counted without public scrutiny"
       }
     ],
     "correct": "0"
@@ -566,13 +566,13 @@
       },
       {
         "id": "1",
-        "sv": "Ja, annars får man böter",
-        "en": "Yes, otherwise they are fined"
+        "sv": "Ja, men en blank röst räknas som deltagande",
+        "en": "Yes, but a blank ballot counts as participation"
       },
       {
         "id": "2",
-        "sv": "Ja, om man har ett arbete",
-        "en": "Yes, if they have a job"
+        "sv": "Nej, men bara om man anmäler förhinder",
+        "en": "No, but only if one reports being unable to vote"
       }
     ],
     "correct": "0"
@@ -600,13 +600,13 @@
       },
       {
         "id": "1",
-        "sv": "Skyldighet att hålla med regeringen",
-        "en": "A duty to agree with the government"
+        "sv": "Rätt att få varje åsikt publicerad i en tidning",
+        "en": "The right to have every opinion published in a newspaper"
       },
       {
         "id": "2",
-        "sv": "Rätt att bestämma andras åsikter",
-        "en": "The right to decide other people's opinions"
+        "sv": "Rätt att slippa kritik när man uttrycker en åsikt",
+        "en": "The right to be free from criticism when expressing an opinion"
       }
     ],
     "correct": "0"
@@ -634,13 +634,13 @@
       },
       {
         "id": "1",
-        "sv": "Att människor lever helt åtskilda",
-        "en": "People living completely apart"
+        "sv": "Att olika grupper får var sin separat samhällsservice",
+        "en": "Different groups receiving their own separate public services"
       },
       {
         "id": "2",
-        "sv": "Att bara en grupp får rösta",
-        "en": "Only one group being allowed to vote"
+        "sv": "Att alla förväntas överge sina tidigare kulturella traditioner",
+        "en": "Everyone being expected to abandon their previous cultural traditions"
       }
     ],
     "correct": "0"
@@ -668,13 +668,13 @@
       },
       {
         "id": "1",
-        "sv": "Den gör alla politiskt aktiva",
-        "en": "It makes everyone politically active"
+        "sv": "Den stärker demokratin genom att grupper får mindre kontakt",
+        "en": "It strengthens democracy by reducing contact between groups"
       },
       {
         "id": "2",
-        "sv": "Den avskaffar behovet av val",
-        "en": "It removes the need for elections"
+        "sv": "Den saknar betydelse så länge rösträtten är oförändrad",
+        "en": "It has no significance as long as voting rights are unchanged"
       }
     ],
     "correct": "0"
@@ -702,13 +702,13 @@
       },
       {
         "id": "1",
-        "sv": "290",
-        "en": "290"
+        "sv": "350",
+        "en": "350"
       },
       {
         "id": "2",
-        "sv": "21",
-        "en": "21"
+        "sv": "345",
+        "en": "345"
       }
     ],
     "correct": "0"
@@ -736,13 +736,13 @@
       },
       {
         "id": "1",
-        "sv": "Domar i enskilda brottmål",
-        "en": "Verdicts in individual criminal cases"
+        "sv": "Lagar och domar i enskilda mål",
+        "en": "Laws and judgments in individual cases"
       },
       {
         "id": "2",
-        "sv": "Vem som ska bli kung",
-        "en": "Who should become king"
+        "sv": "Statens budget och vilka som ska vara ministrar",
+        "en": "The state budget and who should be ministers"
       }
     ],
     "correct": "0"
@@ -770,13 +770,13 @@
       },
       {
         "id": "1",
-        "sv": "Kungen",
-        "en": "The king"
+        "sv": "Väljarna i ett separat statsministerval",
+        "en": "Voters in a separate prime ministerial election"
       },
       {
         "id": "2",
-        "sv": "Högsta domstolen",
-        "en": "The Supreme Court"
+        "sv": "Talmannen utan omröstning i riksdagen",
+        "en": "The Speaker without a vote in the Riksdag"
       }
     ],
     "correct": "0"
@@ -804,13 +804,13 @@
       },
       {
         "id": "1",
-        "sv": "Regionfullmäktige",
-        "en": "The regional assembly"
+        "sv": "Riksdagen genom separata ministerval",
+        "en": "The Riksdag through separate votes for ministers"
       },
       {
         "id": "2",
-        "sv": "Polisen",
-        "en": "The police"
+        "sv": "Talmannen när regeringen ska bildas",
+        "en": "The Speaker when a government is being formed"
       }
     ],
     "correct": "0"
@@ -838,13 +838,13 @@
       },
       {
         "id": "1",
-        "sv": "Myndigheter",
-        "en": "Government agencies"
+        "sv": "Koalition",
+        "en": "Coalition"
       },
       {
         "id": "2",
-        "sv": "Domstolar",
-        "en": "Courts"
+        "sv": "Regeringsunderlag",
+        "en": "Government support base"
       }
     ],
     "correct": "0"
@@ -872,13 +872,13 @@
       },
       {
         "id": "1",
-        "sv": "25",
-        "en": "25"
+        "sv": "20",
+        "en": "20"
       },
       {
         "id": "2",
-        "sv": "349",
-        "en": "349"
+        "sv": "25",
+        "en": "25"
       }
     ],
     "correct": "0"
@@ -906,13 +906,13 @@
       },
       {
         "id": "1",
-        "sv": "21",
-        "en": "21"
+        "sv": "280",
+        "en": "280"
       },
       {
         "id": "2",
-        "sv": "100",
-        "en": "100"
+        "sv": "310",
+        "en": "310"
       }
     ],
     "correct": "0"
@@ -940,13 +940,13 @@
       },
       {
         "id": "1",
-        "sv": "I Högsta domstolen",
-        "en": "In the Supreme Court"
+        "sv": "I kommunstyrelsen, som är kommunens folkvalda församling",
+        "en": "In the municipal executive board, as the directly elected assembly"
       },
       {
         "id": "2",
-        "sv": "I EU-kommissionen",
-        "en": "In the European Commission"
+        "sv": "I regionfullmäktige, som beslutar åt kommunerna",
+        "en": "In the regional assembly, which decides for municipalities"
       }
     ],
     "correct": "0"
@@ -974,13 +974,13 @@
       },
       {
         "id": "1",
-        "sv": "Varje år",
-        "en": "Every year"
+        "sv": "Vart fjärde år",
+        "en": "Every four years"
       },
       {
         "id": "2",
-        "sv": "Vart tredje år",
-        "en": "Every three years"
+        "sv": "Vart sjätte år",
+        "en": "Every six years"
       }
     ],
     "correct": "0"
@@ -1013,8 +1013,8 @@
       },
       {
         "id": "2",
-        "sv": "21 år",
-        "en": "21 years"
+        "sv": "20 år",
+        "en": "20 years"
       }
     ],
     "correct": "0"
@@ -1042,13 +1042,13 @@
       },
       {
         "id": "1",
-        "sv": "Vilket EU-medborgarskap som helst",
-        "en": "Any EU citizenship"
+        "sv": "Medborgarskap i valfritt nordiskt land",
+        "en": "Citizenship of any Nordic country"
       },
       {
         "id": "2",
-        "sv": "Inget medborgarskap krävs",
-        "en": "No citizenship is required"
+        "sv": "Medborgarskap i valfritt EU-land",
+        "en": "Citizenship of any EU country"
       }
     ],
     "correct": "0"
@@ -1076,13 +1076,13 @@
       },
       {
         "id": "1",
-        "sv": "Sverige införde euro",
-        "en": "Sweden adopted the euro"
+        "sv": "Sverige beslutade att införa euro efter en övergångsperiod",
+        "en": "Sweden decided to introduce the euro after a transition period"
       },
       {
         "id": "2",
-        "sv": "Sverige lämnade EU",
-        "en": "Sweden left the EU"
+        "sv": "Sverige införde euro men behöll kronan för kontantbetalningar",
+        "en": "Sweden introduced the euro but kept the krona for cash payments"
       }
     ],
     "correct": "0"
@@ -1110,13 +1110,13 @@
       },
       {
         "id": "1",
-        "sv": "Samma yrke krävs",
-        "en": "They must have the same occupation"
+        "sv": "Gemensamt ansvar för att verkställa myndighetsbeslut",
+        "en": "Shared responsibility for implementing agency decisions"
       },
       {
         "id": "2",
-        "sv": "Samma födelseort krävs",
-        "en": "They must have the same birthplace"
+        "sv": "Gemensamt uppdrag att opartiskt granska regeringen",
+        "en": "A shared duty to scrutinise the government impartially"
       }
     ],
     "correct": "0"
@@ -1144,13 +1144,13 @@
       },
       {
         "id": "1",
-        "sv": "Största partiet får alla platser",
-        "en": "The largest party gets every seat"
+        "sv": "Andelen platser motsvarar partiets andel av alla röstberättigade",
+        "en": "The share of seats reflects the party's share of all eligible voters"
       },
       {
         "id": "2",
-        "sv": "Alla partier får lika många platser",
-        "en": "Every party gets the same number of seats"
+        "sv": "Andelen platser motsvarar partiets antal vunna kommuner",
+        "en": "The share of seats reflects how many municipalities the party won"
       }
     ],
     "correct": "0"
@@ -1178,13 +1178,13 @@
       },
       {
         "id": "1",
-        "sv": "Nej, bara kungen kan göra det",
-        "en": "No, only the king can do so"
+        "sv": "Ja, men nya partier måste först ingå i ett riksdagsparti",
+        "en": "Yes, but new parties must first belong to a parliamentary party"
       },
       {
         "id": "2",
-        "sv": "Nej, partier får aldrig bildas",
-        "en": "No, parties may never be formed"
+        "sv": "Ja, men bara folkvalda politiker får ta initiativet",
+        "en": "Yes, but only elected politicians may initiate it"
       }
     ],
     "correct": "0"
@@ -1212,13 +1212,13 @@
       },
       {
         "id": "1",
-        "sv": "De gäller bara politiker",
-        "en": "They only apply to politicians"
+        "sv": "De ändras genom samma förfarande som andra lagar",
+        "en": "They are amended through the same procedure as other laws"
       },
       {
         "id": "2",
-        "sv": "De saknar rättslig betydelse",
-        "en": "They have no legal significance"
+        "sv": "De ändras av regeringen utan riksdagens medverkan",
+        "en": "They are amended by the government without the Riksdag"
       }
     ],
     "correct": "0"
@@ -1246,13 +1246,13 @@
       },
       {
         "id": "1",
-        "sv": "Kungen",
-        "en": "The king"
+        "sv": "Regeringen, som överlåter makt till folket",
+        "en": "The government, which delegates power to the people"
       },
       {
         "id": "2",
-        "sv": "Militären",
-        "en": "The military"
+        "sv": "Statschefen, som överlåter makt till riksdagen",
+        "en": "The head of state, who delegates power to the Riksdag"
       }
     ],
     "correct": "0"
@@ -1280,13 +1280,13 @@
       },
       {
         "id": "1",
-        "sv": "Successionsordningen",
-        "en": "The Act of Succession"
+        "sv": "Yttrandefrihetsgrundlagen",
+        "en": "The Fundamental Law on Freedom of Expression"
       },
       {
         "id": "2",
-        "sv": "Semesterlagen",
-        "en": "The Annual Leave Act"
+        "sv": "Regeringsformen",
+        "en": "The Instrument of Government"
       }
     ],
     "correct": "0"
@@ -1314,13 +1314,13 @@
       },
       {
         "id": "1",
-        "sv": "Hur skatt beräknas",
-        "en": "How tax is calculated"
+        "sv": "Hur en ny statsminister utses",
+        "en": "How a new prime minister is appointed"
       },
       {
         "id": "2",
-        "sv": "Hur kommuner bildas",
-        "en": "How municipalities are established"
+        "sv": "Hur talmannen ersätts efter ett val",
+        "en": "How the Speaker is replaced after an election"
       }
     ],
     "correct": "0"
@@ -1348,13 +1348,13 @@
       },
       {
         "id": "1",
-        "sv": "Att bygga hus på annans mark",
-        "en": "Building houses on someone else's land"
+        "sv": "Att vistas endast på statligt ägd naturmark",
+        "en": "Enjoying nature only on state-owned land"
       },
       {
         "id": "2",
-        "sv": "Att ta över ägandet av skog",
-        "en": "Taking ownership of forests"
+        "sv": "Att vistas på privat mark först efter ägarens tillstånd",
+        "en": "Enjoying private land only with the owner's permission"
       }
     ],
     "correct": "0"
@@ -1382,13 +1382,13 @@
       },
       {
         "id": "1",
-        "sv": "Att alltid betala inträde",
-        "en": "To always pay an entrance fee"
+        "sv": "Att alltid inhämta markägarens tillstånd innan man går i skogen",
+        "en": "To always obtain the landowner's permission before walking in a forest"
       },
       {
         "id": "2",
-        "sv": "Att bara gå ut med en guide",
-        "en": "To only go outdoors with a guide"
+        "sv": "Att hålla sig till kommunalt markerade leder i all natur",
+        "en": "To stay on municipally marked paths everywhere in nature"
       }
     ],
     "correct": "0"
@@ -1416,13 +1416,13 @@
       },
       {
         "id": "1",
-        "sv": "Styrda av kungens beslut",
-        "en": "Directed by the king's decisions"
+        "sv": "Självständiga utom när regeringen ingriper i ett enskilt mål",
+        "en": "Independent except when the government intervenes in an individual case"
       },
       {
         "id": "2",
-        "sv": "Styrda av största partiet i varje mål",
-        "en": "Directed by the largest party in each case"
+        "sv": "Bundna av riksdagens instruktioner om domen i varje mål",
+        "en": "Bound by the Riksdag's instructions on the verdict in each case"
       }
     ],
     "correct": "0"
@@ -1450,13 +1450,13 @@
       },
       {
         "id": "1",
-        "sv": "Som automatiskt skyldig",
-        "en": "As automatically guilty"
+        "sv": "Som skyldig när åklagaren har väckt åtal",
+        "en": "As guilty once the prosecutor has brought charges"
       },
       {
         "id": "2",
-        "sv": "Som utan rättigheter",
-        "en": "As having no rights"
+        "sv": "Som skyldig om personen inte själv bevisar sin oskuld",
+        "en": "As guilty unless the person proves their own innocence"
       }
     ],
     "correct": "0"
@@ -1484,13 +1484,13 @@
       },
       {
         "id": "1",
-        "sv": "Att be en journalist ändra domen",
-        "en": "To ask a journalist to change the judgment"
+        "sv": "Att begära en ny förundersökning hos polisen",
+        "en": "To request a new preliminary investigation by the police"
       },
       {
         "id": "2",
-        "sv": "Att automatiskt slippa straff",
-        "en": "To automatically avoid punishment"
+        "sv": "Att begära att regeringen ändrar domstolens beslut",
+        "en": "To ask the government to change the court's decision"
       }
     ],
     "correct": "0"
@@ -1518,13 +1518,13 @@
       },
       {
         "id": "1",
-        "sv": "Högsta domstolen",
-        "en": "The Supreme Court"
+        "sv": "Förvaltningsrätten",
+        "en": "The administrative court"
       },
       {
         "id": "2",
-        "sv": "Europaparlamentet",
-        "en": "The European Parliament"
+        "sv": "Hovrätten",
+        "en": "The court of appeal"
       }
     ],
     "correct": "0"
@@ -1552,13 +1552,13 @@
       },
       {
         "id": "1",
-        "sv": "Att stifta grundlagar",
-        "en": "To enact fundamental laws"
+        "sv": "Att besluta om åtal och föra talan i domstol",
+        "en": "To decide on prosecution and present the case in court"
       },
       {
         "id": "2",
-        "sv": "Att välja statsminister",
-        "en": "To elect the prime minister"
+        "sv": "Att besluta om påföljd efter bevisprövning",
+        "en": "To decide the sentence after examining the evidence"
       }
     ],
     "correct": "0"
@@ -1586,13 +1586,13 @@
       },
       {
         "id": "1",
-        "sv": "Bestämma domen ensam",
-        "en": "Decide the verdict alone"
+        "sv": "Avgöra om åtal ska väckas",
+        "en": "Decide whether charges should be brought"
       },
       {
         "id": "2",
-        "sv": "Stifta en ny lag för målet",
-        "en": "Make a new law for the case"
+        "sv": "Fastställa påföljden efter rättegången",
+        "en": "Determine the sentence after the trial"
       }
     ],
     "correct": "0"
@@ -1620,13 +1620,13 @@
       },
       {
         "id": "1",
-        "sv": "Den ersätter allmänna val",
-        "en": "It replaces general elections"
+        "sv": "Den fattar bindande beslut om politikers ansvar",
+        "en": "It makes binding decisions on politicians' responsibility"
       },
       {
         "id": "2",
-        "sv": "Den bestämmer domstolarnas domar",
-        "en": "It determines court verdicts"
+        "sv": "Den företräder regeringen när dess beslut ifrågasätts",
+        "en": "It represents the government when its decisions are questioned"
       }
     ],
     "correct": "0"
@@ -1654,13 +1654,13 @@
       },
       {
         "id": "1",
-        "sv": "Bara journalister",
-        "en": "Only journalists"
+        "sv": "Den som kan visa ett personligt intresse i ärendet",
+        "en": "Anyone who can show a personal interest in the matter"
       },
       {
         "id": "2",
-        "sv": "Bara riksdagsledamöter",
-        "en": "Only members of the Riksdag"
+        "sv": "Den som är part i ärendet eller arbetar som journalist",
+        "en": "Anyone who is a party to the matter or works as a journalist"
       }
     ],
     "correct": "0"
@@ -1688,13 +1688,13 @@
       },
       {
         "id": "1",
-        "sv": "Att bestämma valresultatet",
-        "en": "To decide the election result"
+        "sv": "Att själv godkänna tidningens artikel före publicering",
+        "en": "To personally approve the newspaper article before publication"
       },
       {
         "id": "2",
-        "sv": "Att bli ansvarig utgivare automatiskt",
-        "en": "To automatically become the responsible publisher"
+        "sv": "Att bestämma vilken rubrik uppgifterna publiceras under",
+        "en": "To decide the headline under which the information is published"
       }
     ],
     "correct": "0"
@@ -1722,13 +1722,13 @@
       },
       {
         "id": "1",
-        "sv": "Ikea, Volvo och Saab",
-        "en": "Ikea, Volvo and Saab"
+        "sv": "SR, SVT och TV4",
+        "en": "SR, SVT and TV4"
       },
       {
         "id": "2",
-        "sv": "LO, TCO och SACO",
-        "en": "LO, TCO and SACO"
+        "sv": "SVT, UR och Svenska Dagbladet",
+        "en": "SVT, UR and Svenska Dagbladet"
       }
     ],
     "correct": "0"
@@ -1756,13 +1756,13 @@
       },
       {
         "id": "1",
-        "sv": "Enbart genom reklam",
-        "en": "Only through advertising"
+        "sv": "Genom en avgift som bara tv-ägare betalar",
+        "en": "Through a fee paid only by television owners"
       },
       {
         "id": "2",
-        "sv": "Genom partiernas medlemsavgifter",
-        "en": "Through political party membership fees"
+        "sv": "Genom abonnemang som tittarna väljer att köpa",
+        "en": "Through subscriptions viewers choose to buy"
       }
     ],
     "correct": "0"
@@ -1790,13 +1790,13 @@
       },
       {
         "id": "1",
-        "sv": "Att tro på allt som delas ofta",
-        "en": "Believing everything that is shared often"
+        "sv": "Att bedöma trovärdighet enbart efter hur många som delar uppgiften",
+        "en": "Judging credibility solely by how many people share a claim"
       },
       {
         "id": "2",
-        "sv": "Att bara läsa rubriker",
-        "en": "Only reading headlines"
+        "sv": "Att godta en uppgift när flera sidor återger samma ursprungskälla",
+        "en": "Accepting a claim when several sites repeat the same original source"
       }
     ],
     "correct": "0"
@@ -1824,13 +1824,13 @@
       },
       {
         "id": "1",
-        "sv": "Rättigheter beror på inkomst",
-        "en": "Rights depend on income"
+        "sv": "Rättigheterna uppstår först när en stat beviljar medborgarskap",
+        "en": "Rights arise only when a state grants citizenship"
       },
       {
         "id": "2",
-        "sv": "Bara medborgare har mänskliga rättigheter",
-        "en": "Only citizens have human rights"
+        "sv": "Rättigheterna gäller först när en person blir myndig",
+        "en": "Rights apply only when a person reaches adulthood"
       }
     ],
     "correct": "0"
@@ -1858,13 +1858,13 @@
       },
       {
         "id": "1",
-        "sv": "Att alla får samma rättigheter",
-        "en": "Everyone receiving the same rights"
+        "sv": "Att olika personer uttrycker olika uppfattningar",
+        "en": "Different people expressing different opinions"
       },
       {
         "id": "2",
-        "sv": "Att alla har rösträtt",
-        "en": "Everyone having the right to vote"
+        "sv": "Att en regel leder till samma behandling av alla",
+        "en": "A rule resulting in identical treatment for everyone"
       }
     ],
     "correct": "0"
@@ -1892,13 +1892,13 @@
       },
       {
         "id": "1",
-        "sv": "Olika rättigheter beroende på kön",
-        "en": "Different rights depending on gender"
+        "sv": "Samma yrkesval för kvinnor och män",
+        "en": "Identical career choices for women and men"
       },
       {
         "id": "2",
-        "sv": "Att bara män får vara chefer",
-        "en": "Only men being allowed to be managers"
+        "sv": "Samma arbetsuppgifter i varje familj enligt lag",
+        "en": "Identical household tasks in every family by law"
       }
     ],
     "correct": "0"
@@ -1926,13 +1926,13 @@
       },
       {
         "id": "1",
-        "sv": "Bara kvinnor",
-        "en": "Only women"
+        "sv": "Kvinnor; män får bara obetald ledighet",
+        "en": "Women; men may only take unpaid leave"
       },
       {
         "id": "2",
-        "sv": "Bara män",
-        "en": "Only men"
+        "sv": "Män; kvinnor får ersättning enbart från arbetsgivaren",
+        "en": "Men; women receive compensation only from the employer"
       }
     ],
     "correct": "0"
@@ -1960,13 +1960,13 @@
       },
       {
         "id": "1",
-        "sv": "1951",
-        "en": "1951"
+        "sv": "2018",
+        "en": "2018"
       },
       {
         "id": "2",
-        "sv": "1995",
-        "en": "1995"
+        "sv": "2022",
+        "en": "2022"
       }
     ],
     "correct": "0"
@@ -1994,13 +1994,13 @@
       },
       {
         "id": "1",
-        "sv": "Det är tillåtet i hemmet",
-        "en": "It is allowed at home"
+        "sv": "Förbudet gäller i skolan men föräldrar får besluta hemma",
+        "en": "The ban applies at school but parents may decide at home"
       },
       {
         "id": "2",
-        "sv": "Det är tillåtet som uppfostran",
-        "en": "It is allowed as discipline"
+        "sv": "Förbudet gäller fysiskt våld men inte psykiskt våld",
+        "en": "The ban covers physical violence but not psychological violence"
       }
     ],
     "correct": "0"
@@ -2028,13 +2028,13 @@
       },
       {
         "id": "1",
-        "sv": "Sverigefinnar",
-        "en": "Swedish Finns"
+        "sv": "Tornedalingar",
+        "en": "Tornedalians"
       },
       {
         "id": "2",
-        "sv": "Tornedalingar",
-        "en": "Tornedalians"
+        "sv": "Sverigefinnar",
+        "en": "Swedish Finns"
       }
     ],
     "correct": "0"
@@ -2062,8 +2062,8 @@
       },
       {
         "id": "1",
-        "sv": "Riksdagen",
-        "en": "The Riksdag"
+        "sv": "Samerådet",
+        "en": "The Sami Council"
       },
       {
         "id": "2",
@@ -2096,13 +2096,13 @@
       },
       {
         "id": "1",
-        "sv": "Att valresultat räknas",
-        "en": "That election results are counted"
+        "sv": "Att domstolarnas domar följs genom att verkställa straff",
+        "en": "That court judgments are followed by enforcing sentences"
       },
       {
         "id": "2",
-        "sv": "Att skatter sänks",
-        "en": "That taxes are reduced"
+        "sv": "Att myndighetsbeslut överklagas inom rätt tid",
+        "en": "That agency decisions are appealed within the deadline"
       }
     ],
     "correct": "0"
@@ -2130,13 +2130,13 @@
       },
       {
         "id": "1",
-        "sv": "Kollektivavtal",
-        "en": "A collective agreement"
+        "sv": "Förtal",
+        "en": "Defamation"
       },
       {
         "id": "2",
-        "sv": "Folkomröstning",
-        "en": "A referendum"
+        "sv": "Olaga hot utan hänsyn till motiv",
+        "en": "Unlawful threats regardless of motive"
       }
     ],
     "correct": "0"
@@ -2164,13 +2164,13 @@
       },
       {
         "id": "1",
-        "sv": "Enbart statliga myndigheter",
-        "en": "Only state agencies"
+        "sv": "Alla verksamheter som tar betalt direkt av användarna",
+        "en": "All activities that charge users directly"
       },
       {
         "id": "2",
-        "sv": "Enbart kommunala skolor",
-        "en": "Only municipal schools"
+        "sv": "Alla verksamheter som drivs utan anställda",
+        "en": "All activities run without employees"
       }
     ],
     "correct": "0"
@@ -2198,13 +2198,13 @@
       },
       {
         "id": "1",
-        "sv": "Enbart arbetsgivarna",
-        "en": "Only employers"
+        "sv": "Arbetsgivarna i förhandlingar med personalen",
+        "en": "Employers in negotiations with staff"
       },
       {
         "id": "2",
-        "sv": "Domstolarna",
-        "en": "The courts"
+        "sv": "Staten i förhandlingar med arbetsmarknadens parter",
+        "en": "The state in negotiations with labour-market parties"
       }
     ],
     "correct": "0"
@@ -2232,13 +2232,13 @@
       },
       {
         "id": "1",
-        "sv": "Enbart arbetslösa",
-        "en": "Only unemployed people"
+        "sv": "Arbetstagarna i förhandlingar om löner",
+        "en": "Employees in pay negotiations"
       },
       {
         "id": "2",
-        "sv": "Enbart studenter",
-        "en": "Only students"
+        "sv": "Staten när kollektivavtal ska godkännas",
+        "en": "The state when collective agreements are approved"
       }
     ],
     "correct": "0"
@@ -2266,13 +2266,13 @@
       },
       {
         "id": "1",
-        "sv": "Gränser mellan kommuner",
-        "en": "Municipal boundaries"
+        "sv": "Skattesatser och statliga pensioners storlek",
+        "en": "Tax rates and the level of state pensions"
       },
       {
         "id": "2",
-        "sv": "Vem som ärver tronen",
-        "en": "Who inherits the throne"
+        "sv": "Företagens priser och villkor för konsumenter",
+        "en": "Companies' prices and terms for consumers"
       }
     ],
     "correct": "0"
@@ -2300,13 +2300,13 @@
       },
       {
         "id": "1",
-        "sv": "Tull",
-        "en": "Customs duty"
+        "sv": "Moms",
+        "en": "VAT"
       },
       {
         "id": "2",
-        "sv": "Böter",
-        "en": "A fine"
+        "sv": "Arbetsgivaravgifter",
+        "en": "Employer contributions"
       }
     ],
     "correct": "0"
@@ -2334,13 +2334,13 @@
       },
       {
         "id": "1",
-        "sv": "Riksdagens mandat",
-        "en": "Parliamentary seats"
+        "sv": "Ett företags inkomster och utgifter",
+        "en": "A company's income and expenses"
       },
       {
         "id": "2",
-        "sv": "Regionernas gränser",
-        "en": "Regional boundaries"
+        "sv": "Kommunens inkomster och utgifter",
+        "en": "A municipality's income and expenses"
       }
     ],
     "correct": "0"
@@ -2368,13 +2368,13 @@
       },
       {
         "id": "1",
-        "sv": "Sametinget",
-        "en": "The Sami Parliament"
+        "sv": "Skatteverket",
+        "en": "The Swedish Tax Agency"
       },
       {
         "id": "2",
-        "sv": "Valmyndigheten",
-        "en": "The Election Authority"
+        "sv": "Försäkringskassan",
+        "en": "The Swedish Social Insurance Agency"
       }
     ],
     "correct": "0"
@@ -2402,13 +2402,13 @@
       },
       {
         "id": "1",
-        "sv": "Enbart genom donationer",
-        "en": "Only through donations"
+        "sv": "Främst genom obligatoriska privata försäkringar",
+        "en": "Primarily through compulsory private insurance"
       },
       {
         "id": "2",
-        "sv": "Genom böter från turister",
-        "en": "Through fines paid by tourists"
+        "sv": "Främst genom avgifter när tjänsterna används",
+        "en": "Primarily through fees when services are used"
       }
     ],
     "correct": "0"
@@ -2436,13 +2436,13 @@
       },
       {
         "id": "1",
-        "sv": "Ett studiebidrag",
-        "en": "A student grant"
+        "sv": "En avgift som arbetsgivaren betalar på lön",
+        "en": "A contribution the employer pays on wages"
       },
       {
         "id": "2",
-        "sv": "En typ av pension",
-        "en": "A type of pension"
+        "sv": "En skatt enbart på företagens vinst",
+        "en": "A tax only on companies' profits"
       }
     ],
     "correct": "0"
@@ -2470,13 +2470,13 @@
       },
       {
         "id": "1",
-        "sv": "Att välja statsminister",
-        "en": "To elect the prime minister"
+        "sv": "Att ansvara för grundskolor och förskolor",
+        "en": "To be responsible for primary schools and preschools"
       },
       {
         "id": "2",
-        "sv": "Att utfärda grundlagar",
-        "en": "To enact fundamental laws"
+        "sv": "Att ansvara för pensioner och barnbidrag",
+        "en": "To be responsible for pensions and child benefit"
       }
     ],
     "correct": "0"
@@ -2504,13 +2504,13 @@
       },
       {
         "id": "1",
-        "sv": "Kungen",
-        "en": "The king"
+        "sv": "Regionen",
+        "en": "The region"
       },
       {
         "id": "2",
-        "sv": "Nato",
-        "en": "NATO"
+        "sv": "Skatteverket",
+        "en": "The Swedish Tax Agency"
       }
     ],
     "correct": "0"
@@ -2538,13 +2538,13 @@
       },
       {
         "id": "1",
-        "sv": "Att bevaka landets gränser",
-        "en": "To guard the country's borders"
+        "sv": "Att administrera statliga pensioner och sjukpenning",
+        "en": "To administer state pensions and sickness benefit"
       },
       {
         "id": "2",
-        "sv": "Att besluta om styrräntan",
-        "en": "To set the policy interest rate"
+        "sv": "Att ansvara för regionens sjukhus och vårdcentraler",
+        "en": "To be responsible for regional hospitals and health centres"
       }
     ],
     "correct": "0"
@@ -2572,13 +2572,13 @@
       },
       {
         "id": "1",
-        "sv": "Alla städer övergavs",
-        "en": "All cities were abandoned"
+        "sv": "Många lämnade städerna för arbete på större jordbruk",
+        "en": "Many left cities to work on larger farms"
       },
       {
         "id": "2",
-        "sv": "Jordbruk blev det enda arbetet",
-        "en": "Farming became the only work"
+        "sv": "Många stannade på landsbygden medan fabrikerna försvann",
+        "en": "Many stayed in the countryside as factories disappeared"
       }
     ],
     "correct": "0"
@@ -2591,8 +2591,8 @@
       "en": "Swedish history"
     },
     "question": {
-      "sv": "Vilken av dessa var en stor folkrörelse?",
-      "en": "Which of these was a major popular movement?"
+      "sv": "Vilken grupp består av fyra stora folkrörelser i texten?",
+      "en": "Which group consists of four major popular movements in the text?"
     },
     "excerpt": {
       "sv": "Fyra av de största var arbetarrörelsen, frikyrkorörelsen, kvinnorörelsen och nykterhetsrörelsen.",
@@ -2601,18 +2601,18 @@
     "options": [
       {
         "id": "0",
-        "sv": "Kvinnorörelsen",
-        "en": "The women's movement"
+        "sv": "Arbetarrörelsen, frikyrkorörelsen, kvinnorörelsen och nykterhetsrörelsen",
+        "en": "The labour, free church, women’s and temperance movements"
       },
       {
         "id": "1",
-        "sv": "EU-kommissionen",
-        "en": "The European Commission"
+        "sv": "Arbetarrörelsen, frikyrkorörelsen, kvinnorörelsen och miljörörelsen",
+        "en": "The labour, free church, women’s and environmental movements"
       },
       {
         "id": "2",
-        "sv": "Högsta domstolen",
-        "en": "The Supreme Court"
+        "sv": "Arbetarrörelsen, kvinnorörelsen, nykterhetsrörelsen och fredsrörelsen",
+        "en": "The labour, women’s, temperance and peace movements"
       }
     ],
     "correct": "0"
@@ -2640,13 +2640,13 @@
       },
       {
         "id": "1",
-        "sv": "1809",
-        "en": "1809"
+        "sv": "1918",
+        "en": "1918"
       },
       {
         "id": "2",
-        "sv": "2000",
-        "en": "2000"
+        "sv": "1909",
+        "en": "1909"
       }
     ],
     "correct": "0"
@@ -2674,13 +2674,13 @@
       },
       {
         "id": "1",
-        "sv": "Parisavtalet",
-        "en": "The Paris Agreement"
+        "sv": "Decemberkompromissen",
+        "en": "The December Compromise"
       },
       {
         "id": "2",
-        "sv": "Schengenavtalet",
-        "en": "The Schengen Agreement"
+        "sv": "Huvudavtalet från 2022",
+        "en": "The 2022 Main Agreement"
       }
     ],
     "correct": "0"
@@ -2708,13 +2708,13 @@
       },
       {
         "id": "1",
-        "sv": "Större klasskillnader",
-        "en": "Greater class divisions"
+        "sv": "Trygghet som främst byggde på familjens ekonomiska ansvar",
+        "en": "Security based mainly on the family's financial responsibility"
       },
       {
         "id": "2",
-        "sv": "Rösträtt bara för rika",
-        "en": "Voting rights only for the wealthy"
+        "sv": "Gemenskap som förutsatte att klasskillnaderna bevarades",
+        "en": "Belonging that required preserving class divisions"
       }
     ],
     "correct": "0"
@@ -2742,13 +2742,13 @@
       },
       {
         "id": "1",
-        "sv": "En miljon nya kommuner",
-        "en": "One million new municipalities"
+        "sv": "En miljon bostäder på fem år",
+        "en": "One million homes in five years"
       },
       {
         "id": "2",
-        "sv": "En miljon nya sjöar",
-        "en": "One million new lakes"
+        "sv": "En halv miljon bostäder på tio år",
+        "en": "Half a million homes in ten years"
       }
     ],
     "correct": "0"
@@ -2776,13 +2776,13 @@
       },
       {
         "id": "1",
-        "sv": "Alla industrier stängdes",
-        "en": "All industries closed"
+        "sv": "Stark industri men snabbt ökande arbetslöshet",
+        "en": "Strong industry but rapidly rising unemployment"
       },
       {
         "id": "2",
-        "sv": "Kraftigt minskad levnadsstandard",
-        "en": "Sharply declining living standards"
+        "sv": "Stigande levnadsstandard trots långvarig ekonomisk stagnation",
+        "en": "Rising living standards despite prolonged economic stagnation"
       }
     ],
     "correct": "0"
@@ -2810,13 +2810,13 @@
       },
       {
         "id": "1",
-        "sv": "Att införa engelska som huvudspråk",
-        "en": "Making English the main language"
+        "sv": "Att använda ni i stället för yrkestitlar",
+        "en": "Using the formal ni instead of professional titles"
       },
       {
         "id": "2",
-        "sv": "Att förbjuda förnamn",
-        "en": "Banning first names"
+        "sv": "Att använda förnamn men behålla ni mellan vuxna",
+        "en": "Using first names but retaining formal ni between adults"
       }
     ],
     "correct": "0"
@@ -2844,13 +2844,13 @@
       },
       {
         "id": "1",
-        "sv": "Den första istiden",
-        "en": "The first ice age"
+        "sv": "Det första genombrottet för fabriksindustrin",
+        "en": "The first breakthrough of factory industry"
       },
       {
         "id": "2",
-        "sv": "Övergången till enbart jordbruk",
-        "en": "The transition to farming alone"
+        "sv": "Det första genombrottet för televisionen",
+        "en": "The first breakthrough of television"
       }
     ],
     "correct": "0"
@@ -2878,13 +2878,13 @@
       },
       {
         "id": "1",
-        "sv": "1945",
-        "en": "1945"
+        "sv": "1994",
+        "en": "1994"
       },
       {
         "id": "2",
-        "sv": "2024",
-        "en": "2024"
+        "sv": "2004",
+        "en": "2004"
       }
     ],
     "correct": "0"
@@ -2897,28 +2897,28 @@
       "en": "Sweden and the world"
     },
     "question": {
-      "sv": "Vilken global organisation är Sverige medlem i enligt texten?",
-      "en": "Which global organisation is Sweden a member of according to the text?"
+      "sv": "När grundades FN enligt texten?",
+      "en": "When was the UN founded according to the text?"
     },
     "excerpt": {
-      "sv": "Sverige är medlem i FN.",
-      "en": "Sweden is a member of the UN."
+      "sv": "Nästan alla världens länder är med i FN som grundades 1945 efter andra världskriget.",
+      "en": "Almost all countries in the world are members of the UN, which was founded in 1945 after the Second World War."
     },
     "options": [
       {
         "id": "0",
-        "sv": "FN",
-        "en": "The UN"
+        "sv": "1945",
+        "en": "1945"
       },
       {
         "id": "1",
-        "sv": "Enbart Nordiska rådet",
-        "en": "Only the Nordic Council"
+        "sv": "1948",
+        "en": "1948"
       },
       {
         "id": "2",
-        "sv": "Ingen global organisation",
-        "en": "No global organisation"
+        "sv": "1949",
+        "en": "1949"
       }
     ],
     "correct": "0"
@@ -2946,13 +2946,13 @@
       },
       {
         "id": "1",
-        "sv": "Att utse Sveriges kung",
-        "en": "Appointing Sweden's king"
+        "sv": "Att främst främja svenska företags export",
+        "en": "Primarily promoting Swedish companies' exports"
       },
       {
         "id": "2",
-        "sv": "Att driva svenska domstolar",
-        "en": "Running Swedish courts"
+        "sv": "Att leda Sveriges militära försvarsinsatser utomlands",
+        "en": "Leading Sweden's military defence operations abroad"
       }
     ],
     "correct": "0"
@@ -2980,13 +2980,13 @@
       },
       {
         "id": "1",
-        "sv": "1523",
-        "en": "1523"
+        "sv": "1814",
+        "en": "1814"
       },
       {
         "id": "2",
-        "sv": "1995",
-        "en": "1995"
+        "sv": "1907",
+        "en": "1907"
       }
     ],
     "correct": "0"
@@ -3014,13 +3014,13 @@
       },
       {
         "id": "1",
-        "sv": "1991",
-        "en": "1991"
+        "sv": "2022",
+        "en": "2022"
       },
       {
         "id": "2",
-        "sv": "2000",
-        "en": "2000"
+        "sv": "2023",
+        "en": "2023"
       }
     ],
     "correct": "0"
@@ -3048,13 +3048,13 @@
       },
       {
         "id": "1",
-        "sv": "Bara armén och marinen",
-        "en": "Only the army and navy"
+        "sv": "Militärt försvar och enbart räddningstjänst",
+        "en": "Military defence and only rescue services"
       },
       {
         "id": "2",
-        "sv": "Bara polis och domstolar",
-        "en": "Only police and courts"
+        "sv": "Civilt försvar och enbart polisverksamhet",
+        "en": "Civil defence and only policing"
       }
     ],
     "correct": "0"
@@ -3082,13 +3082,13 @@
       },
       {
         "id": "1",
-        "sv": "Styrd av Svenska kyrkan",
-        "en": "Governed by the Church of Sweden"
+        "sv": "Religiöst styrd med en officiell statskyrka",
+        "en": "Religiously governed with an official state church"
       },
       {
         "id": "2",
-        "sv": "En religiös domstol",
-        "en": "A religious court"
+        "sv": "Religiöst neutral men med krav på medlemskap i ett samfund",
+        "en": "Religiously neutral but requiring membership of a faith community"
       }
     ],
     "correct": "0"
@@ -3116,13 +3116,13 @@
       },
       {
         "id": "1",
-        "sv": "Att bara byta mellan kristna samfund",
-        "en": "Only switching between Christian denominations"
+        "sv": "Att lämna Svenska kyrkan endast för ett annat kristet samfund",
+        "en": "Leaving the Church of Sweden only for another Christian community"
       },
       {
         "id": "2",
-        "sv": "Att staten väljer religion åt alla",
-        "en": "The state choosing everyone's religion"
+        "sv": "Att byta religion först efter myndighetsgodkännande",
+        "en": "Changing religion only after official approval"
       }
     ],
     "correct": "0"
@@ -3150,13 +3150,13 @@
       },
       {
         "id": "1",
-        "sv": "1921",
-        "en": "1921"
+        "sv": "1995",
+        "en": "1995"
       },
       {
         "id": "2",
-        "sv": "1860",
-        "en": "1860"
+        "sv": "2005",
+        "en": "2005"
       }
     ],
     "correct": "0"
@@ -3218,13 +3218,13 @@
       },
       {
         "id": "1",
-        "sv": "6 juni",
-        "en": "6 June"
+        "sv": "1 januari",
+        "en": "1 January"
       },
       {
         "id": "2",
-        "sv": "30 april",
-        "en": "30 April"
+        "sv": "30 december",
+        "en": "30 December"
       }
     ],
     "correct": "0"
@@ -3252,13 +3252,13 @@
       },
       {
         "id": "1",
-        "sv": "Vintern",
-        "en": "Winter"
+        "sv": "Sommaren",
+        "en": "Summer"
       },
       {
         "id": "2",
-        "sv": "Det nya året",
-        "en": "The new year"
+        "sv": "Skördetiden",
+        "en": "The harvest season"
       }
     ],
     "correct": "0"
@@ -3286,13 +3286,13 @@
       },
       {
         "id": "1",
-        "sv": "1 maj",
-        "en": "1 May"
+        "sv": "6 maj",
+        "en": "6 May"
       },
       {
         "id": "2",
-        "sv": "13 december",
-        "en": "13 December"
+        "sv": "6 juli",
+        "en": "6 July"
       }
     ],
     "correct": "0"
@@ -3320,13 +3320,13 @@
       },
       {
         "id": "1",
-        "sv": "Att minnas vinterns början",
-        "en": "Marking the start of winter"
+        "sv": "Att markera början på skörden under sensommaren",
+        "en": "Marking the start of the late-summer harvest"
       },
       {
         "id": "2",
-        "sv": "Att fira nyår",
-        "en": "Celebrating the new year"
+        "sv": "Att välkomna våren med stora brasor",
+        "en": "Welcoming spring with large bonfires"
       }
     ],
     "correct": "0"
@@ -3354,13 +3354,13 @@
       },
       {
         "id": "1",
-        "sv": "Dansar runt en midsommarstång",
-        "en": "Dance around a maypole"
+        "sv": "Tänder vårbrasor på allmänna platser",
+        "en": "Light spring bonfires in public places"
       },
       {
         "id": "2",
-        "sv": "Öppnar julklappar",
-        "en": "Open Christmas presents"
+        "sv": "Tänder det första ljuset i adventsljusstaken",
+        "en": "Light the first candle in the Advent candleholder"
       }
     ],
     "correct": "0"
@@ -3388,13 +3388,13 @@
       },
       {
         "id": "1",
-        "sv": "13 december",
-        "en": "13 December"
+        "sv": "25 december",
+        "en": "25 December"
       },
       {
         "id": "2",
-        "sv": "31 december",
-        "en": "31 December"
+        "sv": "26 december",
+        "en": "26 December"
       }
     ],
     "correct": "0"

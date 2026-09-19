@@ -6,7 +6,7 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH || 'playwright');
 const browser=await chromium.launch({headless:true,channel:process.env.PLAYWRIGHT_CHANNEL || 'msedge'});
 const context=await browser.newContext({viewport:{width:1440,height:1100}});
 const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
-await page.goto('http://127.0.0.1:4173');await page.locator('[data-set="0"]').waitFor();
+await page.goto(process.env.TEST_URL || 'http://127.0.0.1:4173');await page.locator('[data-set="0"]').waitFor();
 await page.screenshot({path:'tmp/home-desktop.png',fullPage:true});
 await page.locator('[data-set="0"]').click();
 for(let i=0;i<10;i++){
@@ -23,6 +23,7 @@ for(let i=0;i<10;i++){
 assert.equal(await page.locator('.score-circle strong').innerText(),'10/10');
 assert.equal(await page.locator('.review').count(),10);
 await page.locator('.review summary').first().click();
+assert.match(await page.locator('.review .source-link').first().getAttribute('href'),/^\.\/reader\.html\?question=q\d{3}&lang=sv$/);
 await page.screenshot({path:'tmp/results-desktop.png',fullPage:true});
 await page.locator('[data-action="home"]').click();
 await page.evaluate(async()=>{await navigator.serviceWorker.ready;});

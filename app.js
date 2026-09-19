@@ -6,7 +6,7 @@ let storageOK = true;
 const t = (sv, en) => lang === 'sv' ? sv : en;
 const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function save() { try { localStorage.setItem(KEY, JSON.stringify({lang, session, history})); } catch { storageOK = false; } }
-function source(q) { return `<a class="source-link" href="./documents/sverige-i-fokus.pdf#page=${q.page}" target="_blank" rel="noopener">Sverige i fokus · ${t('sida','page')} ${q.page} <span aria-hidden="true">↗</span></a>`; }
+function source(q) { return `<a class="source-link" href="./reader.html?question=${q.id}&lang=${lang}" target="_blank" rel="noopener">Sverige i fokus · ${t('sida','page')} ${q.page} <span aria-hidden="true">↗</span></a>`; }
 function excerpts(q) { return `<div class="source-heading"><span>${t('LÄS & FÖRSTÅ','READ & UNDERSTAND')}</span>${source(q)}</div><div class="excerpts"><div lang="sv"><span class="eyebrow">SVENSKA · ${t('ORIGINALTEXT','ORIGINAL TEXT')}</span><blockquote>${esc(q.excerpt.sv)}</blockquote></div><div lang="en"><span class="eyebrow">ENGLISH · ${t('ÖVERSÄTTNING','TRANSLATION')}</span><blockquote>${esc(q.excerpt.en)}</blockquote></div></div>`; }
 function languageUI() {
   document.documentElement.lang = lang;

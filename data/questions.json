@@ -62,12 +62,12 @@
       },
       {
         "id": "2",
-        "sv": "Skagerrak",
-        "en": "The Skagerrak"
+        "sv": "Atlanten",
+        "en": "The Atlantic ocean"
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q003",

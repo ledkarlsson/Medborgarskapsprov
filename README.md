@@ -23,7 +23,7 @@ The authored bank is `data/questions.txt`. Each line contains page, Swedish quot
 
 Varje fråga i `data/questions.json` har fältet `"validated": false`. Granska frågan, svaren, källutdraget och översättningarna och ändra sedan till `"validated": true` (booleskt värde, utan citattecken). Statusen visas på svenska och engelska i quizet och svarssammanställningen. Alla frågor börjar som ej validerade; automatisk kontroll av källcitat räknas inte som mänsklig validering.
 
-`python scripts/compile.py` bevarar valideringen för oförändrade frågor med samma id. Nya eller ändrade frågor återställs till `false`. Om du ändrar innehållet direkt i JSON behöver du själv återställa `validated` till `false` tills frågan granskats igen. Kör tester och bygg om efter redigering. Höj också `CACHE` i `sw.js` vid publicering så att tidigare offlinebesökare får uppdaterad status när den nya versionen aktiveras.
+`python scripts/compile.py` bevarar valideringen för oförändrade frågor med samma id. Nya eller ändrade frågor återställs till `false`. Om du ändrar innehållet direkt i JSON behöver du själv återställa `validated` till `false` tills frågan granskats igen. Kör tester och bygg om efter redigering. Bygget skapar automatiskt en ny cacheversion när frågor eller appfiler ändras, även när bara `validated` ändras. Den nya versionen aktiveras när alla gamla appflikar har stängts.
 
 Question source links open `reader.html?question=q001&lang=sv`. The bundled Mozilla PDF.js reader renders the original PDF page, locates the quotation across PDF text items, highlights it and scrolls it into view. It supports page navigation and zoom, with a direct PDF fallback. The reader and library are cached with the app; offline PDF reading still requires the optional PDF download. See `vendor/pdfjs/` for version and license.
 
@@ -35,7 +35,7 @@ The service worker caches app assets and the complete question bank after the fi
 
 The 11 MB PDF is optional offline content: select **Save PDF for offline use** on the home page while online. Cached PDFs support byte-range requests. Browsers can evict offline storage. Progress and language are saved only in localStorage on this device; no accounts, analytics, cookies or external translation services. Clearing site data clears progress and offline files. When storage is unavailable quizzes still work during the visit.
 
-For releases that change cached assets, increment `CACHE` in `sw.js`. A new version waits until old app tabs close, avoiding changes during an active quiz.
+The build derives the app cache version from a SHA-256 hash of the published files and writes it into `dist/sw.js`. Changes to questions (including `validated`) or app assets automatically invalidate the app cache on publication; no manual version bump is needed. Installation fetches fresh assets without reusing the browser HTTP cache. A new version waits until old app tabs close, avoiding changes during an active quiz. Offline clients receive the update after reconnecting and visiting the app. The optional PDF cache is separate and is retained.
 
 ## GitHub Pages
 

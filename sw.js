@@ -1,7 +1,7 @@
 const CACHE = 'medborgarskapsprov-app-v3';
 const DOCS = 'medborgarskapsprov-documents-v1';
 const ASSETS = ['./','./index.html','./styles.css','./app.js','./quiz.js','./reader.html','./reader.js','./reader.css','./passage.js','./vendor/pdfjs/pdf.mjs','./vendor/pdfjs/pdf.worker.mjs','./data/questions.json','./manifest.webmanifest','./icons/icon.svg','./icons/icon-192.png','./icons/icon-512.png','./icons/maskable-512.png'];
-self.addEventListener('install', event => event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS))));
+self.addEventListener('install', event => event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS.map(url => new Request(url, {cache:'reload'}))))));
 self.addEventListener('activate', event => event.waitUntil((async()=>{for(const name of await caches.keys()){if(name.startsWith('medborgarskapsprov-app-') && name!==CACHE)await caches.delete(name);}await self.clients.claim();})()));
 self.addEventListener('fetch', event => {
  const request = event.request, url = new URL(request.url);

@@ -8,7 +8,7 @@
     },
     "question": {
       "sv": "I vilken del av Europa ligger Sverige?",
-      "en": "In which part of Europe is Sweden?"
+      "en": "In which part of Europe is Sweden located?"
     },
     "excerpt": {
       "sv": "Sverige ligger i Norden i norra Europa.",
@@ -32,7 +32,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q002",

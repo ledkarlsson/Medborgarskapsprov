@@ -19,6 +19,12 @@ Source: `documents/sverige-i-fokus.pdf`, UHR and Skolverket, first edition 2026,
 
 The authored bank is `data/questions.txt`. Each line contains page, Swedish quote, English translation, Swedish question, English question, and three bilingual answers. The first answer is correct; presentation order is randomized. Distractors use related institutions, nearby dates and subject-specific misconceptions. Edit the bank, then run `python scripts/compile.py` with `pypdf` installed. Compilation requires exactly 100 entries and checks every quote against its cited PDF page, normalizing only whitespace. PDF line-end hyphens are retained where present. The generated `data/questions.json` is committed for dependency-free builds.
 
+### Manuell validering
+
+Varje fråga i `data/questions.json` har fältet `"validated": false`. Granska frågan, svaren, källutdraget och översättningarna och ändra sedan till `"validated": true` (booleskt värde, utan citattecken). Statusen visas på svenska och engelska i quizet och svarssammanställningen. Alla frågor börjar som ej validerade; automatisk kontroll av källcitat räknas inte som mänsklig validering.
+
+`python scripts/compile.py` bevarar valideringen för oförändrade frågor med samma id. Nya eller ändrade frågor återställs till `false`. Om du ändrar innehållet direkt i JSON behöver du själv återställa `validated` till `false` tills frågan granskats igen. Kör tester och bygg om efter redigering. Höj också `CACHE` i `sw.js` vid publicering så att tidigare offlinebesökare får uppdaterad status när den nya versionen aktiveras.
+
 Question source links open `reader.html?question=q001&lang=sv`. The bundled Mozilla PDF.js reader renders the original PDF page, locates the quotation across PDF text items, highlights it and scrolls it into view. It supports page navigation and zoom, with a direct PDF fallback. The reader and library are cached with the app; offline PDF reading still requires the optional PDF download. See `vendor/pdfjs/` for version and license.
 
 Optional browser checks, with Playwright installed: `node scripts/check-browser.mjs` and `node scripts/check-reader.mjs`. Set `TEST_URL` to a preview or deployed URL and `PLAYWRIGHT_CHANNEL` to a supported browser channel (default: msedge). The reader check verifies matching for every question, target scrolling, mobile layout, zoom, and offline reading.

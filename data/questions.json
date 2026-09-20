@@ -31,7 +31,8 @@
         "en": "Eastern Europe"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q002",
@@ -65,7 +66,8 @@
         "en": "The Skagerrak"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q003",
@@ -99,7 +101,8 @@
         "en": "Öland and Hisingen"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q004",
@@ -133,7 +136,8 @@
         "en": "Latvia"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q005",
@@ -167,7 +171,8 @@
         "en": "Vänern, Mälaren and Storsjön"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q006",
@@ -201,7 +206,8 @@
         "en": "Mountains and other open land"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q007",
@@ -235,7 +241,8 @@
         "en": "Götaland, Bergslagen and Norrland"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q008",
@@ -269,7 +276,8 @@
         "en": "Götaland"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q009",
@@ -303,7 +311,8 @@
         "en": "Stockholm, Malmö and Västerås"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q010",
@@ -337,7 +346,8 @@
         "en": "Copper"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q011",
@@ -371,7 +381,8 @@
         "en": "Wave power"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q012",
@@ -405,7 +416,8 @@
         "en": "Along the coast of northern Sweden"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q013",
@@ -439,7 +451,8 @@
         "en": "Emissions should fall by the same amount each year"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q014",
@@ -473,7 +486,8 @@
         "en": "To replace environmental goals with economic growth targets"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q015",
@@ -507,7 +521,8 @@
         "en": "Expert rule independent of voters' decisions"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q016",
@@ -541,7 +556,8 @@
         "en": "Votes should be counted without public scrutiny"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q017",
@@ -575,7 +591,8 @@
         "en": "No, but only if one reports being unable to vote"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q018",
@@ -609,7 +626,8 @@
         "en": "The right to be free from criticism when expressing an opinion"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q019",
@@ -643,7 +661,8 @@
         "en": "Everyone being expected to abandon their previous cultural traditions"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q020",
@@ -677,7 +696,8 @@
         "en": "It has no significance as long as voting rights are unchanged"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q021",
@@ -711,7 +731,8 @@
         "en": "345"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q022",
@@ -745,7 +766,8 @@
         "en": "The state budget and who should be ministers"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q023",
@@ -779,7 +801,8 @@
         "en": "The Speaker without a vote in the Riksdag"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q024",
@@ -813,7 +836,8 @@
         "en": "The Speaker when a government is being formed"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q025",
@@ -847,7 +871,8 @@
         "en": "Government support base"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q026",
@@ -881,7 +906,8 @@
         "en": "25"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q027",
@@ -915,7 +941,8 @@
         "en": "310"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q028",
@@ -949,7 +976,8 @@
         "en": "In the regional assembly, which decides for municipalities"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q029",
@@ -983,7 +1011,8 @@
         "en": "Every six years"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q030",
@@ -1017,7 +1046,8 @@
         "en": "20 years"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q031",
@@ -1051,7 +1081,8 @@
         "en": "Citizenship of any EU country"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q032",
@@ -1085,7 +1116,8 @@
         "en": "Sweden introduced the euro but kept the krona for cash payments"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q033",
@@ -1119,7 +1151,8 @@
         "en": "A shared duty to scrutinise the government impartially"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q034",
@@ -1153,7 +1186,8 @@
         "en": "The share of seats reflects how many municipalities the party won"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q035",
@@ -1187,7 +1221,8 @@
         "en": "Yes, but only elected politicians may initiate it"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q036",
@@ -1221,7 +1256,8 @@
         "en": "They are amended by the government without the Riksdag"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q037",
@@ -1255,7 +1291,8 @@
         "en": "The head of state, who delegates power to the Riksdag"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q038",
@@ -1289,7 +1326,8 @@
         "en": "The Instrument of Government"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q039",
@@ -1323,7 +1361,8 @@
         "en": "How the Speaker is replaced after an election"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q040",
@@ -1357,7 +1396,8 @@
         "en": "Enjoying private land only with the owner's permission"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q041",
@@ -1391,7 +1431,8 @@
         "en": "To stay on municipally marked paths everywhere in nature"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q042",
@@ -1425,7 +1466,8 @@
         "en": "Bound by the Riksdag's instructions on the verdict in each case"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q043",
@@ -1459,7 +1501,8 @@
         "en": "As guilty unless the person proves their own innocence"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q044",
@@ -1493,7 +1536,8 @@
         "en": "To ask the government to change the court's decision"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q045",
@@ -1527,7 +1571,8 @@
         "en": "The court of appeal"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q046",
@@ -1561,7 +1606,8 @@
         "en": "To decide the sentence after examining the evidence"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q047",
@@ -1595,7 +1641,8 @@
         "en": "Determine the sentence after the trial"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q048",
@@ -1629,7 +1676,8 @@
         "en": "It represents the government when its decisions are questioned"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q049",
@@ -1663,7 +1711,8 @@
         "en": "Anyone who is a party to the matter or works as a journalist"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q050",
@@ -1697,7 +1746,8 @@
         "en": "To decide the headline under which the information is published"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q051",
@@ -1731,7 +1781,8 @@
         "en": "SVT, UR and Svenska Dagbladet"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q052",
@@ -1765,7 +1816,8 @@
         "en": "Through subscriptions viewers choose to buy"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q053",
@@ -1799,7 +1851,8 @@
         "en": "Accepting a claim when several sites repeat the same original source"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q054",
@@ -1833,7 +1886,8 @@
         "en": "Rights apply only when a person reaches adulthood"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q055",
@@ -1867,7 +1921,8 @@
         "en": "A rule resulting in identical treatment for everyone"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q056",
@@ -1901,7 +1956,8 @@
         "en": "Identical household tasks in every family by law"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q057",
@@ -1935,7 +1991,8 @@
         "en": "Men; women receive compensation only from the employer"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q058",
@@ -1969,7 +2026,8 @@
         "en": "2022"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q059",
@@ -2003,7 +2061,8 @@
         "en": "The ban covers physical violence but not psychological violence"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q060",
@@ -2037,7 +2096,8 @@
         "en": "Swedish Finns"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q061",
@@ -2071,7 +2131,8 @@
         "en": "The Nordic Council"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q062",
@@ -2105,7 +2166,8 @@
         "en": "That agency decisions are appealed within the deadline"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q063",
@@ -2139,7 +2201,8 @@
         "en": "Unlawful threats regardless of motive"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q064",
@@ -2173,7 +2236,8 @@
         "en": "All activities run without employees"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q065",
@@ -2207,7 +2271,8 @@
         "en": "The state in negotiations with labour-market parties"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q066",
@@ -2241,7 +2306,8 @@
         "en": "The state when collective agreements are approved"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q067",
@@ -2275,7 +2341,8 @@
         "en": "Companies' prices and terms for consumers"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q068",
@@ -2309,7 +2376,8 @@
         "en": "Employer contributions"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q069",
@@ -2343,7 +2411,8 @@
         "en": "A municipality's income and expenses"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q070",
@@ -2377,7 +2446,8 @@
         "en": "The Swedish Social Insurance Agency"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q071",
@@ -2411,7 +2481,8 @@
         "en": "Primarily through fees when services are used"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q072",
@@ -2445,7 +2516,8 @@
         "en": "A tax only on companies' profits"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q073",
@@ -2479,7 +2551,8 @@
         "en": "To be responsible for pensions and child benefit"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q074",
@@ -2513,7 +2586,8 @@
         "en": "The Swedish Tax Agency"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q075",
@@ -2547,7 +2621,8 @@
         "en": "To be responsible for regional hospitals and health centres"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q076",
@@ -2581,7 +2656,8 @@
         "en": "Many stayed in the countryside as factories disappeared"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q077",
@@ -2615,7 +2691,8 @@
         "en": "The labour, women’s, temperance and peace movements"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q078",
@@ -2649,7 +2726,8 @@
         "en": "1909"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q079",
@@ -2683,7 +2761,8 @@
         "en": "The 2022 Main Agreement"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q080",
@@ -2717,7 +2796,8 @@
         "en": "Belonging that required preserving class divisions"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q081",
@@ -2751,7 +2831,8 @@
         "en": "Half a million homes in ten years"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q082",
@@ -2785,7 +2866,8 @@
         "en": "Rising living standards despite prolonged economic stagnation"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q083",
@@ -2819,7 +2901,8 @@
         "en": "Using first names but retaining formal ni between adults"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q084",
@@ -2853,7 +2936,8 @@
         "en": "The first breakthrough of television"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q085",
@@ -2887,7 +2971,8 @@
         "en": "2004"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q086",
@@ -2921,7 +3006,8 @@
         "en": "1949"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q087",
@@ -2955,7 +3041,8 @@
         "en": "Leading Sweden's military defence operations abroad"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q088",
@@ -2989,7 +3076,8 @@
         "en": "1907"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q089",
@@ -3023,7 +3111,8 @@
         "en": "2023"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q090",
@@ -3057,7 +3146,8 @@
         "en": "Civil defence and only policing"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q091",
@@ -3091,7 +3181,8 @@
         "en": "Religiously neutral but requiring membership of a faith community"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q092",
@@ -3125,7 +3216,8 @@
         "en": "Changing religion only after official approval"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q093",
@@ -3159,7 +3251,8 @@
         "en": "2005"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q094",
@@ -3193,7 +3286,8 @@
         "en": "Orthodox"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q095",
@@ -3227,7 +3321,8 @@
         "en": "30 December"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q096",
@@ -3261,7 +3356,8 @@
         "en": "The harvest season"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q097",
@@ -3295,7 +3391,8 @@
         "en": "6 July"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q098",
@@ -3329,7 +3426,8 @@
         "en": "Welcoming spring with large bonfires"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q099",
@@ -3363,7 +3461,8 @@
         "en": "Light the first candle in the Advent candleholder"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   },
   {
     "id": "q100",
@@ -3397,6 +3496,7 @@
         "en": "26 December"
       }
     ],
-    "correct": "0"
+    "correct": "0",
+    "validated": false
   }
 ]

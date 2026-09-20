@@ -102,7 +102,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q004",
@@ -112,8 +112,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vilket land ingår i Norden?",
-      "en": "Which country is part of the Nordic region?"
+      "sv": "Vilket av dessa länder ingår i Norden?",
+      "en": "Which of these countries is part of the Nordic region?"
     },
     "excerpt": {
       "sv": "I Norden finns fem länder: Danmark, Finland, Island, Norge och Sverige.",
@@ -137,7 +137,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q005",
@@ -147,8 +147,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vilken grupp består av Sveriges tre största sjöar?",
-      "en": "Which group consists of Sweden's three largest lakes?"
+      "sv": "Vilka är Sveriges tre största sjöar?",
+      "en": "Which are Sweden's three largest lakes?"
     },
     "excerpt": {
       "sv": "De tre största sjöarna är Vänern, Vättern och Mälaren.",
@@ -172,7 +172,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q006",
@@ -207,7 +207,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q007",
@@ -218,11 +218,11 @@
     },
     "question": {
       "sv": "Vilka är Sveriges tre landsdelar?",
-      "en": "What are Sweden's three large regions?"
+      "en": "What are Sweden's three \"landsdelar\" (areas)?"
     },
     "excerpt": {
       "sv": "Sverige brukar delas in i tre stora landsdelar: Götaland, Svealand och Norrland.",
-      "en": "Sweden is usually divided into three large regions: Götaland, Svealand and Norrland."
+      "en": "Sweden is usually divided into three large areas: Götaland, Svealand and Norrland."
     },
     "options": [
       {
@@ -242,7 +242,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q008",
@@ -253,7 +253,7 @@
     },
     "question": {
       "sv": "Vilken landsdel omfattar mer än hälften av Sveriges yta?",
-      "en": "Which region covers more than half of Sweden's area?"
+      "en": "Which \"landsdelar\" (area) covers more than half of Sweden's area?"
     },
     "excerpt": {
       "sv": "Norrland omfattar mer än hälften av Sveriges yta.",
@@ -277,7 +277,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q009",
@@ -312,7 +312,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q010",
@@ -322,8 +322,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vad används järn till enligt texten?",
-      "en": "What is iron used to make according to the text?"
+      "sv": "Vad används ofta järn till?",
+      "en": "What is iron ofted used for?"
     },
     "excerpt": {
       "sv": "Järn används för att tillverka stål.",
@@ -347,7 +347,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q011",
@@ -357,8 +357,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vilken energikälla använder enligt texten rinnande vatten i älvar?",
-      "en": "Which energy source uses flowing river water according to the text?"
+      "sv": "Vilken av dessa energikällor använder rinnande vatten i älvar, och är viktig för Sverige?",
+      "en": "Which of these energy sources uses flowing river water, and is important for Sweden?"
     },
     "excerpt": {
       "sv": "Vattenkraft står för en stor del av Sveriges elproduktion.",
@@ -382,7 +382,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q012",
@@ -392,7 +392,7 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Var finns det mesta av Sveriges jordbruk?",
+      "sv": "Var i landet finns det mesta av Sveriges jordbruk?",
       "en": "Where is most of Sweden's farming located?"
     },
     "excerpt": {
@@ -417,7 +417,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q013",
@@ -427,8 +427,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vad innebär klimatmålet som beskrivs i texten?",
-      "en": "What does the climate goal described in the text mean?"
+      "sv": "Vad innebär Sveriges klimatmål avseende växthusgaser?",
+      "en": "What is Sweden's goal regarding greenhouse gases?"
     },
     "excerpt": {
       "sv": "Det betyder att Sverige inte ska släppa ut mer växthusgaser än vad naturen kan ta upp.",
@@ -452,7 +452,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q014",
@@ -462,8 +462,8 @@
       "en": "Sweden"
     },
     "question": {
-      "sv": "Vad är ett mål med hållbar utveckling?",
-      "en": "What is one aim of sustainable development?"
+      "sv": "Vad innebär hållbar utveckling?",
+      "en": "What is sustainable development?"
     },
     "excerpt": {
       "sv": "En hållbar utveckling handlar om att använda naturresurser på ett sätt så att framtida generationer också kan leva bra.",
@@ -472,8 +472,8 @@
     "options": [
       {
         "id": "0",
-        "sv": "Att även framtida generationer ska leva bra",
-        "en": "For future generations to live well too"
+        "sv": "Att även framtida generationer ska kunna leva bra",
+        "en": "Future generations should be able to live well too"
       },
       {
         "id": "1",
@@ -487,7 +487,7 @@
       }
     ],
     "correct": "0",
-    "validated": false
+    "validated": true
   },
   {
     "id": "q015",
